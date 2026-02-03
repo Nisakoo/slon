@@ -1,0 +1,13 @@
+[book]
+title = "Slon"
+authors = ["Nisakoo"]
+language = "ru"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+definition-lists = true
+admonitions = true
+mathjax-support = false
+no-section-label = true
