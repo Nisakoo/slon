@@ -11,3 +11,4 @@ definition-lists = true
 admonitions = true
 mathjax-support = false
 no-section-label = true
+site-url = "/slon/"
